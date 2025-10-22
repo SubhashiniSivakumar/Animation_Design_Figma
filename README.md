@@ -9,11 +9,11 @@ The prototype not only animates elements smoothly between frames but also includ
 
 ## Features
 
-Smart Animate: Elements transition smoothly between frames, creating fluid motion.
-Ease Out Effect: Animations decelerate naturally toward the end for polished motion.
-On Click Trigger: Interactions occur only when the user clicks elements.
-Color Change Interaction: Elements change color to indicate navigation or selection, improving visual feedback.
-Interactive Prototype: Users can engage with the design to experience transitions, color changes, and multi-page navigation in real time.
+- Smart Animate: Elements transition smoothly between frames, creating fluid motion.
+- Ease Out Effect: Animations decelerate naturally toward the end for polished motion.
+- On Click Trigger: Interactions occur only when the user clicks elements.
+- Color Change Interaction: Elements change color to indicate navigation or selection, improving visual feedback.
+- Interactive Prototype: Users can engage with the design to experience transitions, color changes, and multi-page navigation in real time.
 
 ## Tools Used🔗🎨
 
