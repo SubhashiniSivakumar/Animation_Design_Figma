@@ -22,3 +22,4 @@ Figma – for designing and prototyping interactive animations and color-changin
 Click below to interact with the design directly in Figma:
 [View prototype](https://www.figma.com/design/7rmZPmMgQqr5ZwfZtR2q3a/Untitled?node-id=0-1&t=RLKVOKeL9SFNjJMl-1)
 
+<img src="page.png">
